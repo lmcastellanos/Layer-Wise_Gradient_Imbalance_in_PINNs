@@ -1,5 +1,4 @@
-This repository is related to the publication "Beyond Fixed Regularization: Understanding Layer-Wise Gradient Imbalance in 
-Physics-Informed Neural Networks"; the Instrucitons.txt files explains how to use the codes, while the Description.txt files explain 
+This repository is related to the publication "On Gradient Imbalance and Predictive Accuracy in Physics-Informed Neural Networks for Chemical Kinetics"; the Instrucitons.txt files explains how to use the codes, while the Description.txt files explain 
 what each code file does. 
 
 To obtain the datasets for the chemical kinetics case, download the zip files from zenodo, you should decompress then and add the to 
